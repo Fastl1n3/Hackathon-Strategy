@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Nsu.HackathonProblem.Strategy", "Nsu.HackathonProblem.Strategy\Nsu.HackathonProblem.Strategy.csproj", "{CDAAE4CC-1E2F-4770-9C29-5C383EAE16D8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Nsu.HackathonProblem.Contracts", "Nsu.HackathonProblem.Contracts\Nsu.HackathonProblem.Contracts\Nsu.HackathonProblem.Contracts.csproj", "{7DFAE5EC-11C8-4125-9D7F-A50004632D0B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CDAAE4CC-1E2F-4770-9C29-5C383EAE16D8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CDAAE4CC-1E2F-4770-9C29-5C383EAE16D8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CDAAE4CC-1E2F-4770-9C29-5C383EAE16D8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CDAAE4CC-1E2F-4770-9C29-5C383EAE16D8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7DFAE5EC-11C8-4125-9D7F-A50004632D0B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7DFAE5EC-11C8-4125-9D7F-A50004632D0B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7DFAE5EC-11C8-4125-9D7F-A50004632D0B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7DFAE5EC-11C8-4125-9D7F-A50004632D0B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
